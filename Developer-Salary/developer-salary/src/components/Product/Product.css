@@ -1,0 +1,26 @@
+.product-area{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 10px;
+}
+.product{
+   
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 6px;
+    border-top: 4px; 
+    
+
+}
+.cart{
+    background-image: linear-gradient(45deg, rgb(87, 212, 129), rgb(60, 63, 224) );
+    height: 200px;
+    color: rgb(212, 212, 241);
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-right: 15px;
+   
+}
+.body{
+    background-color: rgb(6, 2, 39);
+}
