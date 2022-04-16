@@ -1,0 +1,33 @@
+.home-ar{
+    display: flex;
+    margin: 20px;
+   
+
+}
+.tex img{
+    width: 100%;
+   
+}
+.p{
+    /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+    text-align: center;
+   
+    margin: 0px 10px;
+}
+.tex{
+    width: 90%;
+    
+
+}
+.tex p{
+    margin-top: 110px;
+    width: 70%;
+    color: rgb(87, 60, 240);
+   
+}
+.button{
+    background-image: linear-gradient(rgb(13, 28, 228), rgb(59, 70, 235));
+    border-radius: 20px 20px 20px 20px;
+    color: whitesmoke;
+    margin-right: 60px;
+}
